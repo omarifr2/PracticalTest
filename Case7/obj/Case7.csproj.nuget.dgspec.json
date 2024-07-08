@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PracticalTest\\Case7\\Case7.csproj": {}
+    "C:\\PracticalTest\\PracticalTest\\Case7\\Case7.csproj": {}
   },
   "projects": {
-    "C:\\PracticalTest\\Case7\\Case7.csproj": {
+    "C:\\PracticalTest\\PracticalTest\\Case7\\Case7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PracticalTest\\Case7\\Case7.csproj",
+        "projectUniqueName": "C:\\PracticalTest\\PracticalTest\\Case7\\Case7.csproj",
         "projectName": "Case7",
-        "projectPath": "C:\\PracticalTest\\Case7\\Case7.csproj",
+        "projectPath": "C:\\PracticalTest\\PracticalTest\\Case7\\Case7.csproj",
         "packagesPath": "C:\\Users\\omar.franco.3PILLAR\\.nuget\\packages\\",
-        "outputPath": "C:\\PracticalTest\\Case7\\obj\\",
+        "outputPath": "C:\\PracticalTest\\PracticalTest\\Case7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omar.franco.3PILLAR\\AppData\\Roaming\\NuGet\\NuGet.Config",

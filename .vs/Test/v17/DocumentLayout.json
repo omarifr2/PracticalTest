@@ -1,33 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PracticalTest\\",
+  "WorkspaceRootPath": "C:\\PracticalTest\\PracticalTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2663DF3F-94F8-4781-BBDD-DC5B8AEA3402}|Case7\\Case7.csproj|c:\\practicaltest\\case7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2663DF3F-94F8-4781-BBDD-DC5B8AEA3402}|Case7\\Case7.csproj|c:\\practicaltest\\practicaltest\\case7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2663DF3F-94F8-4781-BBDD-DC5B8AEA3402}|Case7\\Case7.csproj|solutionrelative:case7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0784B826-BB70-4C74-B52F-8D0B043228A2}|Case4\\Case4.csproj|C:\\PracticalTest\\case4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0784B826-BB70-4C74-B52F-8D0B043228A2}|Case4\\Case4.csproj|C:\\PracticalTest\\PracticalTest\\case4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0784B826-BB70-4C74-B52F-8D0B043228A2}|Case4\\Case4.csproj|solutionrelative:case4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6786F535-A3B7-4F30-9A39-A3D6F2BD9641}|Case5\\Case5.csproj|C:\\PracticalTest\\case5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6786F535-A3B7-4F30-9A39-A3D6F2BD9641}|Case5\\Case5.csproj|C:\\PracticalTest\\PracticalTest\\case5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6786F535-A3B7-4F30-9A39-A3D6F2BD9641}|Case5\\Case5.csproj|solutionrelative:case5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E40DCA43-6F88-4EB2-9935-834FD5985521}|Case6\\Case6.csproj|C:\\PracticalTest\\case6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E40DCA43-6F88-4EB2-9935-834FD5985521}|Case6\\Case6.csproj|solutionrelative:case6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{334F2B51-6967-427F-BC79-AE0BB97E1645}|Case3\\Case3.csproj|C:\\PracticalTest\\case3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{334F2B51-6967-427F-BC79-AE0BB97E1645}|Case3\\Case3.csproj|C:\\PracticalTest\\PracticalTest\\case3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{334F2B51-6967-427F-BC79-AE0BB97E1645}|Case3\\Case3.csproj|solutionrelative:case3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D660AADB-39AD-4433-9E09-E880B6783A86}|Case2\\Case2.csproj|C:\\PracticalTest\\case2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D660AADB-39AD-4433-9E09-E880B6783A86}|Case2\\Case2.csproj|C:\\PracticalTest\\PracticalTest\\case2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D660AADB-39AD-4433-9E09-E880B6783A86}|Case2\\Case2.csproj|solutionrelative:case2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF88DA36-AC10-45E4-B6F8-B70E7EA21224}|Case1\\Case1.csproj|C:\\PracticalTest\\case1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF88DA36-AC10-45E4-B6F8-B70E7EA21224}|Case1\\Case1.csproj|C:\\PracticalTest\\PracticalTest\\case1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF88DA36-AC10-45E4-B6F8-B70E7EA21224}|Case1\\Case1.csproj|solutionrelative:case1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -104,35 +100,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PracticalTest\\Case7\\Program.cs",
+              "DocumentMoniker": "C:\\PracticalTest\\PracticalTest\\Case7\\Program.cs",
               "RelativeDocumentMoniker": "Case7\\Program.cs",
-              "ToolTip": "C:\\PracticalTest\\Case7\\Program.cs",
+              "ToolTip": "C:\\PracticalTest\\PracticalTest\\Case7\\Program.cs",
               "RelativeToolTip": "Case7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T00:49:39.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PracticalTest\\Case6\\Program.cs",
-              "RelativeDocumentMoniker": "Case6\\Program.cs",
-              "ToolTip": "C:\\PracticalTest\\Case6\\Program.cs",
-              "RelativeToolTip": "Case6\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T00:15:55.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PracticalTest\\Case5\\Program.cs",
+              "DocumentMoniker": "C:\\PracticalTest\\PracticalTest\\Case5\\Program.cs",
               "RelativeDocumentMoniker": "Case5\\Program.cs",
-              "ToolTip": "C:\\PracticalTest\\Case5\\Program.cs",
+              "ToolTip": "C:\\PracticalTest\\PracticalTest\\Case5\\Program.cs",
               "RelativeToolTip": "Case5\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PracticalTest\\Case4\\Program.cs",
+              "DocumentMoniker": "C:\\PracticalTest\\PracticalTest\\Case4\\Program.cs",
               "RelativeDocumentMoniker": "Case4\\Program.cs",
-              "ToolTip": "C:\\PracticalTest\\Case4\\Program.cs",
+              "ToolTip": "C:\\PracticalTest\\PracticalTest\\Case4\\Program.cs",
               "RelativeToolTip": "Case4\\Program.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAiwBQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,39 +137,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PracticalTest\\Case3\\Program.cs",
+              "DocumentMoniker": "C:\\PracticalTest\\PracticalTest\\Case3\\Program.cs",
               "RelativeDocumentMoniker": "Case3\\Program.cs",
-              "ToolTip": "C:\\PracticalTest\\Case3\\Program.cs",
+              "ToolTip": "C:\\PracticalTest\\PracticalTest\\Case3\\Program.cs",
               "RelativeToolTip": "Case3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T00:06:46.515Z"
+              "WhenOpened": "2024-07-04T00:06:46.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PracticalTest\\PracticalTest\\Case2\\Program.cs",
+              "RelativeDocumentMoniker": "Case2\\Program.cs",
+              "ToolTip": "C:\\PracticalTest\\PracticalTest\\Case2\\Program.cs",
+              "RelativeToolTip": "Case2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:02:07.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PracticalTest\\Case2\\Program.cs",
-              "RelativeDocumentMoniker": "Case2\\Program.cs",
-              "ToolTip": "C:\\PracticalTest\\Case2\\Program.cs",
-              "RelativeToolTip": "Case2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T00:02:07.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PracticalTest\\Case1\\Program.cs",
+              "DocumentMoniker": "C:\\PracticalTest\\PracticalTest\\Case1\\Program.cs",
               "RelativeDocumentMoniker": "Case1\\Program.cs",
-              "ToolTip": "C:\\PracticalTest\\Case1\\Program.cs",
+              "ToolTip": "C:\\PracticalTest\\PracticalTest\\Case1\\Program.cs",
               "RelativeToolTip": "Case1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T23:59:01.723Z"
+              "WhenOpened": "2024-07-03T23:59:01.723Z",
+              "EditorCaption": ""
             }
           ]
         },

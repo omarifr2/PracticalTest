@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oA0ksLl0+Ykg/milTzXx/QWP3DXvFZY0x2W3FRtLOkcfUa/4UrTFQXlG80vSIISNpMJmFBZqJw+52gsHGT/oDg==",
+  "dgSpecHash": "TFhPiG5ERRWJyBUd4sVuPJ13Y6qapgr5l488mWeteQpz6q4ypMmyETxuOTm15NpXJ1HGhP1gE7TqyXRAury3oQ==",
   "success": true,
-  "projectFilePath": "C:\\PracticalTest\\Case6\\Case6.csproj",
+  "projectFilePath": "C:\\PracticalTest\\PracticalTest\\Case6\\Case6.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

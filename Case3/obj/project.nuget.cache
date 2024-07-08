@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CtJDo2q946cBpfl2rm76Qm4S5qsTZSVR0L4SvxvNJ3mREBYi5oimEf268rv1pOuYKh0cseCCus8Rf74mSAbscw==",
+  "dgSpecHash": "eOY2reHoui7nujK/4ZJbnWgIztQnzVcn7NahIBBcbFjzIv7WdtGUgHQ3O7J4XRiUKjoFE/14ThSFxRA8b7liTQ==",
   "success": true,
-  "projectFilePath": "C:\\PracticalTest\\Case3\\Case3.csproj",
+  "projectFilePath": "C:\\PracticalTest\\PracticalTest\\Case3\\Case3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,119 @@
+#ignore env file
+*.env
+
+#ignore nuget.config files
+nuget.config
+
+#ignore thumbnails created by windows
+Thumbs.db
+
+#ignore files created by Git Merge conflicts
+*.orig
+
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+/[Rr]elease*/
+_ReSharper*/
+*[Tt]est[Rr]esult*
+*.vssettings
+.vs/
+.vscode/
+*.sln.startup.json
+
+#Ignore files created by ReSharper.CLT.CodeCleanup
+Source/CleanupCache
+
+#Ignore files created by NuGet
+Source/packages
+ExternalSource/**/packages
+tools
+
+#Ignore log files in TestComplete
+JediV2SystemTests/**/Log
+JediV2SystemTests/JediSystemTests/*.dmp
+
+#Ignore Tester-specific settings files for TestComplete
+*.tcCfgExtender
+JediV2SystemTests/JediSystemTests/Script/**/Visualizer
+*.tcVis
+
+#Ignore backup files created by TestComplete
+JediV2SystemTests_backup/
+
+#Ignore test output
+Source/LocalTestsOutput/
+
+#Ignore dotCover generated files
+Source/CoverageReport
+Source/CoverageReport.html
+
+#Ignore devops artifacts
+*.iso
+*.iso.lock
+*.box
+Infrastructure/packer/packer_cache/
+
+# Ignore upgrade log
+Source/UpgradeLog.htm
+
+# Ignore package.config migration to PackageReference
+Source/MigrationBackup
+
+#######################
+#Include settings files
+#ReSharper
+!Source/Jedi.sln.DotSettings
+
+#example.env
+!example.env
+
+#release documentation
+!docs/Release
+
+#ExternalAssemblies
+!ExternalAssemblies/**
+ExternalAssemblies/POCOGenerator/POCOGenerator.settings
+
+# Cake script output directories 
+output/
+staging/
+autocad-staging/
+
+# Vagrant workspace
+.vagrant
+
+# Ionide (VSCode extension)
+.ionide/
+
+# Rider
+.idea/
+
+#materials-test.env
+!Source/DevTools/TestDataFromSqlTests/materials-test.env
+
+tools/*
+!tools/packages.config
+/.vs/Test/DesignTimeBuild/.dtbcache.v2
+/.vs/Test/v17/.futdcache.v2
+/.vs/Test/v17/DocumentLayout.json
