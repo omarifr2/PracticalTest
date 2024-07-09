@@ -16,7 +16,7 @@ public class MallardDuck : Duck
     }
 }
 
-public class RubberDuck : Duck  // pato de madera
+public class RubberDuck : Duck  // pato de hule
 {
     public override void Fly()
     {
